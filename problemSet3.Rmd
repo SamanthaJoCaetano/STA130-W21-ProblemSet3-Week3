@@ -303,7 +303,7 @@ books <- read.csv("amazonbooks.csv")
 
 
 ```
-The longest book in this sample is titled "Andrew Carnegie", and it has 896 pages.
+
 
 # (b) Create a summary table which reports the total number of books written by each author and the average number of pages per book for each author, for the books represented in this sample of books. 
 
@@ -326,14 +326,15 @@ The longest book in this sample is titled "Andrew Carnegie", and it has 896 page
 
 ## Writing prompt
 
-You have just been hired by a consultancy company. Congratulations! They are doing a report on each Olympics for the past 10 years. Given your recent experience in STA130, you ask to be responsible for the 2012 summary. Write a short report to your boss on information that can be gleaned about the ages of the athletes. 
+You have just been hired by a consultancy company. Congratulations! They are doing a report on each Olympics for the past 10 years. Given your recent experience in STA130, you ask to be responsible for the 2012 summary. Write a short report to your boss on information that can be gleaned about the ages of the athletes (since your boss' favourite sports are badminton and weightlifting, you know she will be happy if your summary talks about these sports specificially, but you can talk about other interesting of features athletes' ages which can be learned from your plots and tables.)
+
 
 ### Important Features to Include
 
 -	Start off with a small introduction. You should include 1 or 2 sentences to draw your reader in, and then explain what you will be discussing. 
 -	Make sure to include at least 1 figure to help your reader visualize what you are speaking about. 
 -	You want to show off all the knowledge you gained in STA130 so you must include at least 2 vocabulary words. However, your boss isn't a statistician, therefore you must define any vocabulary terms you used.
--	Make sure to finish with a conclusion to remind your boss of the key take home points from your summary about the athletes’ age.
+-	Make sure to finish with a conclusion to remind your boss of the key take home points from your summary about the athletes' ages.
 
 
 
